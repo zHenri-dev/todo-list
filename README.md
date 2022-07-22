@@ -1,4 +1,4 @@
-﻿# ignite-01-challenge-todo
+﻿# todo-list
 Aplicação ToDo realizada durante o Ignite da Rocketseat.
 <br>
 Layout no Figma: https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List
