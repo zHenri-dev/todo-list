@@ -1,7 +1,7 @@
 ﻿# ignite-01-challenge-todo
 Aplicação ToDo realizada durante o Ignite da Rocketseat.
 <br>
-Layout no Figma: https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-Lis
+Layout no Figma: https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List
 <br>
 URL da aplicação em produção: https://zhenri-todo-list.vercel.app/
 ## Technologies
